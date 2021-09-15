@@ -12,6 +12,7 @@ This repo is the output of reading and following along with the book by Kevin So
   - Install [here](https://www.trufflesuite.com/docs/truffle/getting-started/installation)
 - an Ethereum client (so you can run an Ethereum node on your machine)
   - Install Parity [here](https://docs.nethereum.com/en/latest/ethereum-and-clients/parity/#installation)
+- a non-custodial wallet, like [MetaMask](https://metamask.io/download.html)
 
 ### Getting Started
 
